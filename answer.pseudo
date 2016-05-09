@@ -1,0 +1,7 @@
+/*<?php
+function xeno($name="Himanshu"){
+	$min=6; $max=15;
+echo $name." ".rand($min ,$max );
+}
+xeno("amit");
+?>*/
